@@ -17,4 +17,4 @@ work only under the same, similar or a compatible license.
 Simply put, if you improve upon it, share!
 http://creativecommons.org/licenses/by-sa/3.0
 
-![](https://raw.github.com/alexrestrepo/RBCustomToolbar/master/screeen.png)
+![](https://raw.github.com/alexrestrepo/RBCustomToolbar/master/screen.png)
